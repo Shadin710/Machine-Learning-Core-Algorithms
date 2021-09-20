@@ -1,0 +1,6 @@
+Day,temp,hum,stat
+Day1,25.2,60.3,ideal
+Day2,19.3,100.1,non-ideal
+Day3,18.5,85.4,ideal
+Day4,21.7,75.3,ideal
+Day5,20.1,90.4,non-ideal
